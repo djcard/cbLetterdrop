@@ -22,7 +22,7 @@ From CommandBox type `box install commandbox-cbLetterDrop`
 
 #### Properties
 
-**collectionName** - The name of the collection in Postman. For an existing, this should match the existing name in order to prevent an "are you sure" prompt.  
+**collectionName** - The name of the collection in Postman. For an existing collection, this should match the existing name in order to prevent an "are you sure" prompt.  
   
 **entryPoint** - Any part of the URL used to call an endpoint which is inherited by the module. For example, if the module is "v1" but the actual endpoint path is "api/v1", the entry point would be "api".
 
