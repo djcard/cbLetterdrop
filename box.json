@@ -6,7 +6,7 @@
     "dependencies":{
         "commandbox-cbdatasource":"0.0.2"
     },
-    "description":"A collection of tools to faciliate keeping a database in sync with migrations and to help play `catch up` to get a process back on track with migrations. ",
+    "description":"A tool to create a postman collection from a Coldbox Router and and combine it with existing examples and tests already in a postman collection.",
     "devDependencies":{},
     "documentation":"https://github.com/djcard/cbLetterdrop",
     "homepage":"https://github.com/djcard/cbLetterdrop",
@@ -63,5 +63,5 @@
         "watchPaths":"**.cfc"
     },
     "type":"commandbox-modules",
-    "version":"0.0.1"
+    "version":"0.0.2"
 }
