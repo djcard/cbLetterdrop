@@ -1,0 +1,67 @@
+{
+    "author":"Dan Card",
+    "bugs":"https://github.com/djcard/cbLetterdrop/issues",
+    "changelog":"",
+    "contributors":[],
+    "dependencies":{
+        "commandbox-cbdatasource":"0.0.2"
+    },
+    "description":"A collection of tools to faciliate keeping a database in sync with migrations and to help play `catch up` to get a process back on track with migrations. ",
+    "devDependencies":{},
+    "documentation":"https://github.com/djcard/cbLetterdrop",
+    "homepage":"https://github.com/djcard/cbLetterdrop",
+    "ignore":[
+        "**/.*",
+        "/test/",
+        "/tests/",
+        "server.json",
+        "index.cfm"
+    ],
+    "installPaths":{
+        "testbox":"testbox/"
+    },
+    "instructions":"",
+    "keywords":[],
+    "license":[
+        {
+            "type":"",
+            "URL":""
+        }
+    ],
+    "location":"ForgeboxStorage",
+    "name":"Letter Drop",
+    "private":false,
+    "projectURL":"https://github.com/djcard/cbLetterdrop",
+    "reinitWatchDelay":500,
+    "reinitWatchDirectory":"",
+    "reinitWatchPaths":"",
+    "repository":{
+        "type":"git",
+        "URL":"https://github.com/djcard/cbLetterdrop"
+    },
+    "scripts":{},
+    "shortDescription":"A tool to create a postman collection from a Coldbox Router and and combine it with existing examples and tests already in a postman collection.",
+    "slug":"commandbox-cbLetterDrop",
+    "testbox":{
+        "bundles":"",
+        "directory":"tests.specs",
+        "excludes":"",
+        "labels":"",
+        "options":{},
+        "recurse":true,
+        "reporter":"",
+        "runner":[
+            {
+                "default":""
+            }
+        ],
+        "testBundles":"",
+        "testSpecs":"",
+        "testSuites":"",
+        "verbose":true,
+        "watchDelay":500,
+        "watchPaths":"**.cfc"
+    },
+    "type":"commandbox-modules",
+    "version":"0.0.1"
+}
