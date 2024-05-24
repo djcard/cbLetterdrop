@@ -13,12 +13,11 @@ From CommandBox type `box install commandbox-cbLetterDrop`
 3. Use the `lade` command to create the .json file to import into Postman.  
 4. Import the new file into postman to see and use the collection.  
 
-
 ### Configuring a project
 
 #### Command
 
- `letterDrop Configure ....`  
+ From CommandBox ( usually, but not required, in the root folder of a site ) `letterDrop Configure ....`  
 
 #### Properties
 
@@ -38,7 +37,7 @@ From CommandBox type `box install commandbox-cbLetterDrop`
 
 #### Command
 
- `letterDrop lade ....`
+ From CommandBox ( usually, but not required, in the root folder of a site ) `letterDrop lade ....`
 
 #### Properties
 
